@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/daka_login_in/daka_login_in",
+    "pages/code_get/code_get",
+    "pages/get_the_nft/get_the_nft",
+    "pages/my_page3/my_page3",
+    "pages/my_page2/my_page2",
+    "pages/my_page_1/my_page_1",
+    "pages/nft/nft",
+    "pages/phone_loginin_buildingblocks/phone_loginin_buildingblocks",
+    "pages/homepage/homepage",
+    "pages/components/components",
+    "pages/nft_al/nft_al"
+  ]
+}

@@ -1,0 +1,66 @@
+<view class="flex-col page">
+  <view class="flex-col group_1">
+    <view class="flex-col">
+      <view class="flex-col section_1">
+        <view class="flex-row justify-between group_3">
+          <text class="text_1">哒咔广场</text>
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16612941061656467407.png"
+            class="image_4"
+          />
+        </view>
+        <view class="flex-row group_4">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16612941162394231007.png"
+            class="image_5"
+          />
+          <view class="flex-col items-start group_5">
+            <text class="text_2">王廷中MIka</text>
+            <text class="text_3">我的哈希区块：</text>
+          </view>
+        </view>
+      </view>
+      <image
+        src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/b619035734d7b327786111659d18cabe.png"
+        class="image_6"
+      />
+    </view>
+    <view class="flex-col items-center button">
+      <image
+        src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16613573869243197132.png"
+        class="image_7"
+      />
+    </view>
+    <text class="text_4">
+      版权所有 MODERNLAND 摩登地标 ©️得言科技 技术支持 区块积木©️么塔科技 区块链底层支持 Conflux 树图区块链研究院
+    </text>
+    <view class="flex-col group_6">
+      <view class="flex-row equal-division">
+        <view class="flex-row justify-center equal-division-item section_2">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/4ee37947eaa0a660a9c69c5142a20308.png"
+            class="image_8"
+          />
+          <text class="text_5">哒咔广场</text>
+        </view>
+        <view class="flex-row justify-center equal-division-item">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/5ab630dd40f9e7836fed2b0c8cdf7cb0.png"
+            class="image_8"
+          />
+          <text class="text_5">哒咔地标</text>
+        </view>
+        <view class="flex-row justify-center equal-division-item">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/99584caf5fcb8e50df3fdb4cefbb64c0.png"
+            class="image_8"
+          />
+          <text class="text_5">我的哒咔</text>
+        </view>
+      </view>
+      <view class="divider"><!--*--></view>
+      <view class="section_5"><!--*--></view>
+      <view class="section_6"><!--*--></view>
+    </view>
+  </view>
+</view>

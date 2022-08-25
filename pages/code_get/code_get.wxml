@@ -1,0 +1,50 @@
+<view class="flex-col page">
+  <view class="flex-col section_1">
+    <image
+      src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/0882ec1e23577bdf2f456d8ab6ec96fc.png"
+      class="image"
+    />
+    <view class="flex-col items-center button">
+      <text class="text">确 定</text>
+      <image
+        src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16612941122182203544.png"
+        class="image_1"
+      />
+    </view>
+    <image
+      src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16613573733647933567.png"
+      class="image_2"
+    />
+    <text class="text_1">
+      版权所有 MODERNLAND 摩登地标 ©️得言科技 技术支持 区块积木©️么塔科技 区块链底层支持 Conflux 树图区块链研究院
+    </text>
+    <view class="divider"><!--*--></view>
+  </view>
+  <view class="flex-col group">
+    <view class="flex-row">
+      <view class="flex-row justify-center equal-division-item section_2">
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/535fa20237d65d7a7778cc428fe68ba3.png"
+          class="image_3"
+        />
+        <text class="text_2">哒咔广场</text>
+      </view>
+      <view class="flex-row justify-center equal-division-item">
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/5ab630dd40f9e7836fed2b0c8cdf7cb0.png"
+          class="image_3"
+        />
+        <text class="text_2">哒咔地标</text>
+      </view>
+      <view class="flex-row justify-center equal-division-item">
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/99584caf5fcb8e50df3fdb4cefbb64c0.png"
+          class="image_3"
+        />
+        <text class="text_2">我的哒咔</text>
+      </view>
+    </view>
+    <view class="section_5"><!--*--></view>
+    <view class="section_6"><!--*--></view>
+  </view>
+</view>

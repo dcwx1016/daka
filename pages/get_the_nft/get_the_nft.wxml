@@ -1,0 +1,55 @@
+<view class="flex-col page">
+  <view class="flex-col section_1">
+    <view class="flex-col items-center">
+      <text class="text">领取成功,</text>
+      <text class="text_1">分享你的哒咔</text>
+    </view>
+    <view class="flex-col group_1">
+      <image
+        src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16612941058847416473.png"
+        class="image"
+      />
+      <view class="flex-col items-center text-wrapper"><text class="text_2">王廷中Mika的哒咔: WDKMW001</text></view>
+    </view>
+    <view class="flex-row justify-center group_2">
+      <text class="text_3">@麦肯中国</text>
+      <text class="text_4">#Future Forward</text>
+    </view>
+    <view class="flex-col items-center group_3">
+      <image
+        src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16613573733647933567.png"
+        class="image_1"
+      />
+      <text class="text_5">
+        版权所有 MODERNLAND 摩登地标 ©️得言科技 技术支持 区块积木©️么塔科技 区块链底层支持 Conflux 树图区块链研究院
+      </text>
+    </view>
+  </view>
+  <view class="flex-col group_4">
+    <view class="flex-row">
+      <view class="flex-row justify-evenly equal-division-item section_2">
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/165625a4ecbaaeb8dfef934fb9ba3ba1.png"
+          class="image_2"
+        />
+        <text class="text_6">哒咔广场</text>
+      </view>
+      <view class="flex-row justify-evenly equal-division-item">
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/dffdd71442d2c86c885e2a3de7ced718.png"
+          class="image_2"
+        />
+        <text class="text_6">哒咔地标</text>
+      </view>
+      <view class="flex-row justify-evenly equal-division-item">
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/51ff8dd5fa8a095d478f5d1a3b016d5e.png"
+          class="image_2"
+        />
+        <text class="text_6">我的哒咔</text>
+      </view>
+    </view>
+    <view class="section_5"><!--*--></view>
+    <view class="section_6"><!--*--></view>
+  </view>
+</view>

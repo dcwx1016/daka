@@ -1,0 +1,176 @@
+.page {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.section_1 {
+  padding: 21.5px 17px 21px;
+  background-color: #737373;
+}
+.group_2 {
+  margin-top: 27px;
+}
+.image {
+  width: 16px;
+  height: 20px;
+}
+.image_2 {
+  margin-left: 4.5px;
+}
+.group_4 {
+  margin-left: 11.5px;
+}
+.image_4 {
+  margin-left: 4.5px;
+  width: 15px;
+  height: 20px;
+}
+.image_5 {
+  width: 17px;
+  height: 20px;
+}
+.image_6 {
+  margin-left: 4.5px;
+}
+.image_7 {
+  margin-left: 3.5px;
+}
+.switch {
+  margin-right: 19.5px;
+  width: 54px;
+  height: 54px;
+}
+.section_2 {
+  padding: 15.5px 18px 10.5px;
+  background-color: #1b21f3;
+}
+.image_8 {
+  width: 23.5px;
+  height: 11px;
+}
+.image_9 {
+  width: 23.5px;
+  height: 12px;
+}
+.image_10 {
+  margin-left: 1.5px;
+}
+.group_7 {
+  margin-top: 3px;
+}
+.image_11 {
+  width: 17px;
+  height: 21px;
+}
+.image_13 {
+  margin-left: 2px;
+}
+.image_15 {
+  margin-left: 2px;
+}
+.image_17 {
+  margin-left: 2px;
+}
+.image_18 {
+  width: 16px;
+  height: 16px;
+}
+.image_19 {
+  margin-right: 20px;
+  margin-top: 7px;
+}
+.group_8 {
+  margin-top: 27.5px;
+}
+.group_9 {
+  padding-left: 15.5px;
+  padding-right: 15px;
+}
+.section_3 {
+  background-color: #f5f5f5;
+  width: 96.5px;
+  height: 96.5px;
+}
+.view_6 {
+  margin-top: 27.5px;
+}
+.view_10 {
+  margin-top: 27.5px;
+}
+.image_21 {
+  width: 22.5px;
+  height: 12px;
+}
+.image_22 {
+  margin-left: 2.5px;
+}
+.image_26 {
+  margin-left: 1.5px;
+}
+.group_12 {
+  margin-top: 27.5px;
+}
+.section_4 {
+  background-color: #f5f5f5;
+  width: 97px;
+  height: 69px;
+}
+.group_13 {
+  margin-top: 27.5px;
+  padding: 0 15.5px;
+  position: relative;
+}
+.section_5 {
+  background-color: #f5f5f5;
+  position: absolute;
+  left: 15.5px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 97px;
+  height: 69px;
+}
+.group_14 {
+  margin-top: 75.5px;
+  height: 42px;
+  border-top: solid 4.22px #1b21f3;
+  position: relative;
+}
+.equal-division {
+  padding-top: 4px;
+}
+.equal-division-item {
+  margin-left: 4px;
+  flex: 1 1 123px;
+  padding: 9.5px 20px 12.5px 30px;
+  background-color: #f5f5f5;
+  height: 38px;
+}
+.section_6 {
+  margin-left: 0;
+}
+.text {
+  margin: 2px 0;
+  color: #000000;
+  font-size: 12.5px;
+  font-family: Inter;
+  line-height: 11.5px;
+}
+.section_9 {
+  background-color: #737373;
+  height: 38px;
+  position: absolute;
+  left: 123px;
+  right: 248px;
+  top: 4px;
+}
+.section_10 {
+  background-color: #737373;
+  height: 38px;
+  position: absolute;
+  left: 250px;
+  right: 121px;
+  top: 4px;
+}

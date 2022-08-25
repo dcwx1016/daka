@@ -1,0 +1,137 @@
+<view class="flex-col page">
+  <view class="flex-col group_3">
+    <view class="flex-col section_1">
+      <view class="flex-row section_2">
+        <view class="section_3"><!--*--></view>
+        <view class="flex-col group_4">
+          <view class="flex-col">
+            <view class="divider"><!--*--></view>
+            <view class="flex-col section_4">
+              <view class="flex-row">
+                <view class="flex-col items-center section_5">
+                  <image
+                    src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16612941240761887097.png"
+                    class="image_5"
+                  />
+                  <image
+                    src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16612941240262001487.png"
+                    class="image_5 image_7"
+                  />
+                </view>
+                <view class="flex-col items-start group_7">
+                  <text class="text_2">麦肯中国</text>
+                  <text class="text_3">Worldgroup China</text>
+                </view>
+              </view>
+              <image
+                src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16612941239190312068.png"
+                class="image_8"
+              />
+              <view class="flex-col group_8">
+                <view class="flex-row justify-between">
+                  <view class="flex-row">
+                    <view class="flex-col items-center text-wrapper">
+                      <text class="text_4 text_5">上海 淮海国际大厦</text>
+                    </view>
+                    <view class="flex-row section_6">
+                      <image
+                        src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/48cd058bef61db4b53e762bc534a9dbe.png"
+                        class="image_9"
+                      />
+                      <text class="text_4 text_6">2022.08.26</text>
+                    </view>
+                  </view>
+                  <view class="flex-row section_7">
+                    <text class="text_7">限定</text>
+                    <view class="group_11">
+                      <text class="text_8">50</text>
+                      <text class="text_4 text_9">/50</text>
+                    </view>
+                  </view>
+                </view>
+                <view class="group_12">
+                  <text class="text_10">#哒咔创作活动@Future Forward多元宇宙的品牌创新之道</text>
+                  <text class="text_4 text_11">
+                    在全新的互联网Web3.0背景下，麦肯中国策略团队决定举办的“Future
+                    Forward”分享会，与大家一同探索突破现实的品牌创新之道。此次活动主要围绕未来消费及品牌发展趋势相关课题来分享两大洞察：“元宇宙-看不见的城市”以及“预见复杂现实里的消费者”，并在场中与大家一起探讨，中国元宇宙与数字收藏品的实践。
+                  </text>
+                  <text class="text_12">#哒咔创作者@王醒墨</text>
+                  <text class="text_4 text_13">
+                    艺术家，前广告人，现插画师，在上海创办了一家名为Moers
+                    Studio的视觉工作室。在运营商业项目的同时，也在实验和探索新的视觉方式；NFT就是他在这段时间进行的尝试。
+                  </text>
+                </view>
+                <view class="flex-row justify-center section_8">
+                  <text class="text_14">领 取</text>
+                  <image
+                    src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/80059cca8fbbe57fd4030a1f81bedc81.png"
+                    class="image_10"
+                  />
+                  <text class="text_15">你的哒咔</text>
+                </view>
+              </view>
+            </view>
+          </view>
+          <view class="flex-col group_13">
+            <view class="divider"><!--*--></view>
+            <view class="flex-col section_9">
+              <view class="flex-row">
+                <view class="flex-col items-center image-wrapper">
+                  <image
+                    src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16612941244195617125.png"
+                    class="image_11"
+                  />
+                </view>
+                <view class="flex-col items-start group_15">
+                  <text class="text_16">摩登地标</text>
+                  <text class="text_17">MODERNLAND</text>
+                </view>
+              </view>
+              <view class="flex-row group_16">
+                <image
+                  src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16612941246144935839.png"
+                  class="image_12"
+                />
+                <image
+                  src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16612941246131501300.png"
+                  class="image_13"
+                />
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="divider_1"><!--*--></view>
+    </view>
+    <view class="flex-col group_17">
+      <view class="flex-row justify-center equal-division">
+        <view class="flex-row equal-division-item">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/535fa20237d65d7a7778cc428fe68ba3.png"
+            class="image_14"
+          />
+          <text class="text_18">哒咔广场</text>
+        </view>
+        <view class="flex-col items-start equal-division-item_1">
+          <view class="flex-col group_18">
+            <view class="divider_2"><!--*--></view>
+            <image
+              src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/5ab630dd40f9e7836fed2b0c8cdf7cb0.png"
+              class="image_15"
+            />
+          </view>
+          <text class="text_19">哒咔地标</text>
+        </view>
+        <view class="flex-row equal-division-item_2">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/99584caf5fcb8e50df3fdb4cefbb64c0.png"
+            class="image_16"
+          />
+          <text class="text_20">我的哒咔</text>
+        </view>
+      </view>
+      <view class="section_10"><!--*--></view>
+      <view class="section_11"><!--*--></view>
+    </view>
+  </view>
+</view>

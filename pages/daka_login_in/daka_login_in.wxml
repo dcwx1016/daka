@@ -1,0 +1,409 @@
+<view class="flex-col page">
+  <view class="flex-row justify-between section_1">
+    <view class="flex-row group">
+      <image
+        src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083059322669777.png"
+        class="image"
+      />
+      <image
+        src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083068390230324.png"
+        class="image_1 image_2"
+      />
+      <image
+        src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083075733830100.png"
+        class="image_1"
+      />
+      <image
+        src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083078617431947.png"
+        class="image_1"
+      />
+    </view>
+    <view class="flex-col">
+      <view class="flex-row">
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083118651863189.png"
+          class="image_5"
+        />
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083123659037865.png"
+          class="image_6"
+        />
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083127612369256.png"
+          class="image_7"
+        />
+      </view>
+      <view class="flex-row group_3">
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083079425808829.png"
+          class="image_8"
+        />
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083086800706672.png"
+          class="image_10"
+        />
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083093434297110.png"
+          class="image_8 image_12"
+        />
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083106489482293.png"
+          class="image_8 image_13"
+        />
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083110340362356.png"
+          class="image_10"
+        />
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083112056691260.png"
+          class="image_10 image_15"
+        />
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083114054068344.png"
+          class="image_8 image_16"
+        />
+        <image
+          src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083118336334587.png"
+          class="image_17"
+        />
+      </view>
+    </view>
+  </view>
+  <view class="flex-col">
+    <view class="flex-col section_2">
+      <view class="flex-col group_5">
+        <view class="flex-row justify-between">
+          <view class="section_3"><!--*--></view>
+          <view class="section_3"><!--*--></view>
+        </view>
+        <view class="flex-row justify-between group_7">
+          <view class="flex-row section_4">
+            <image
+              src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083131454860904.png"
+              class="image_18"
+            />
+            <image
+              src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083135852598653.png"
+              class="image_19"
+            />
+            <image
+              src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083136349404378.png"
+              class="image_19"
+            />
+          </view>
+          <view class="flex-col group_8">
+            <view class="group_9">
+              <image
+                src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/646966c582250a4d2491c595bc8c8f1f.png"
+                class="image_22"
+              />
+              <image
+                src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/27f6fa78de45c83acf76a460a392d2fb.png"
+                class="image_23"
+              />
+              <image
+                src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/959802bbe468384daece2373d995c3a3.png"
+                class="image_24"
+              />
+            </view>
+            <view class="flex-row group_10">
+              <image
+                src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/99e777794c8aafdff41d9b29e7e7e102.png"
+                class="image_25"
+              />
+              <image
+                src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/9b2f3b49c0f9af50c204fe0c382b6b55.png"
+                class="image_26"
+              />
+              <image
+                src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/b22ab50169851ed0bd063b9bfd950830.png"
+                class="image_27"
+              />
+            </view>
+          </view>
+          <view class="flex-col items-center section_5">
+            <image
+              src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083144098615268.png"
+              class="image_28"
+            />
+            <image
+              src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083149112458149.png"
+              class="image_29"
+            />
+            <image
+              src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083160719748657.png"
+              class="image_30"
+            />
+          </view>
+        </view>
+      </view>
+      <view class="flex-col group_11">
+        <view class="flex-row group_12">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083166053193754.png"
+            class="image_31 image_32"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083169939356225.png"
+            class="image_31 image_33"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083172861802895.png"
+            class="image_31 image_34"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083173399099634.png"
+            class="image_31 image_35"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083185405136248.png"
+            class="image_36 image_37"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083188633413832.png"
+            class="image_38 image_39"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083193218685643.png"
+            class="image_31 image_40"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083197210191755.png"
+            class="image_31 image_41"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083211740586832.png"
+            class="image_31 image_42"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/5ba14e3d63f10ed1a85ab7a05d5c9384.png"
+            class="image_43 image_44"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083226082668135.png"
+            class="image_31 image_45"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083226869269443.png"
+            class="image_31 image_46"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083227360085024.png"
+            class="image_31 image_47"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083230753970503.png"
+            class="image_36 image_48"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083233295025594.png"
+            class="image_31 image_49"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083234957919576.png"
+            class="image_36 image_50"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083237100055188.png"
+            class="image_31 image_51"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083240485693814.png"
+            class="image_36 image_52"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083240627665160.png"
+            class="image_31 image_53"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083188633413832.png"
+            class="image_38 image_54"
+          />
+        </view>
+        <view class="flex-row group_13">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083247463947244.png"
+            class="image_31 image_55"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083249352897678.png"
+            class="image_31 image_56"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083251833412973.png"
+            class="image_31 image_57"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083253463349827.png"
+            class="image_31 image_58"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083255792569604.png"
+            class="image_38 image_59"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083258684211312.png"
+            class="image_31 image_60"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083261193165973.png"
+            class="image_31 image_61"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083268263922140.png"
+            class="image_31 image_62"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083269982176618.png"
+            class="image_31 image_63"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083273893038747.png"
+            class="image_31 image_64"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/3c65ba1425619a986eca226f505c039f.png"
+            class="image_65"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083278934008526.png"
+            class="image_31 image_66"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083282812541596.png"
+            class="image_36 image_67"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083286119565692.png"
+            class="image_31 image_68"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/e3ccb9adbdfec4ac0e01f4b88e85b473.png"
+            class="image_43 image_69"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083294268960712.png"
+            class="image_31 image_70"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083295805005030.png"
+            class="image_36 image_71"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083298053407978.png"
+            class="image_31 image_72"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083299930238672.png"
+            class="image_38 image_73"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083305296179683.png"
+            class="image_31 image_74"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083298053407978.png"
+            class="image_31 image_75"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083306878261695.png"
+            class="image_31 image_76"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083309307779382.png"
+            class="image_31 image_77"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083309410196801.png"
+            class="image_31 image_78"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083313143076771.png"
+            class="image_31 image_79"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083290224579470.png"
+            class="image_31 image_80"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083316223249224.png"
+            class="image_31 image_81"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083316647944052.png"
+            class="image_31 image_82"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083316905200623.png"
+            class="image_31 image_83"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/8f5e6868b423ca47f2ef4fb802386136.png"
+            class="image_84"
+          />
+        </view>
+      </view>
+      <view class="flex-row justify-between equal-division">
+        <view class="flex-row equal-division-item">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083327482158406.png"
+            class="image_85"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083328190779603.png"
+            class="image_86 image_87"
+          />
+        </view>
+        <view class="flex-row equal-division-item_1">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083330995301723.png"
+            class="image_86 image_88"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083331585708905.png"
+            class="image_89 image_90"
+          />
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083333555260762.png"
+            class="image_89 image_91"
+          />
+        </view>
+      </view>
+      <image
+        src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c//16614083361086823215.png"
+        class="image_92"
+      />
+      <text class="text">
+        版权所有 MODERNLAND 摩登地标 ©️得言科技 技术支持 区块积木©️么塔科技 区块链底层支持 Conflux 树图区块链研究院
+      </text>
+      <view class="divider"><!--*--></view>
+    </view>
+    <view class="flex-col group_14">
+      <view class="flex-row">
+        <view class="flex-row justify-center equal-division-item_2 section_6">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/4ee37947eaa0a660a9c69c5142a20308.png"
+            class="image_93"
+          />
+          <text class="text_1">哒咔广场</text>
+        </view>
+        <view class="flex-row justify-center equal-division-item_2">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/5ab630dd40f9e7836fed2b0c8cdf7cb0.png"
+            class="image_93"
+          />
+          <text class="text_1">哒咔地标</text>
+        </view>
+        <view class="flex-row justify-center equal-division-item_2">
+          <image
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62fb12fb5a7e3f031033c338/630555fa769aad001190964c/99584caf5fcb8e50df3fdb4cefbb64c0.png"
+            class="image_93"
+          />
+          <text class="text_1">我的哒咔</text>
+        </view>
+      </view>
+      <view class="section_9"><!--*--></view>
+      <view class="section_10"><!--*--></view>
+    </view>
+  </view>
+</view>
